@@ -105,4 +105,5 @@ input[type="submit"]{
 }
 input[type="submit"]:hover{
     color: skyblue;
+    cursor: pointer;
 }
